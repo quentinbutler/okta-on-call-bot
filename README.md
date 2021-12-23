@@ -1,14 +1,14 @@
-# okta-pagerduty-slack-oncall-bot
-
+# On-Call Bot For Slack
 
 ## Before you get started / prerequisites
+
 Before you get started, you will need:
 
-Access to an Okta tenant with Okta Workflows enabled for your org
+- Access to an Okta tenant with Okta Workflows enabled for your org
 
-Slack Business+
+- Slack 
 
-PagerDuty
+- PagerDuty
 
 ## Problem
 
@@ -16,7 +16,7 @@ Checking the PagerDuty on-call schedule and updating a Slack topic with the indi
 
 ## Solution
 
-This tool updates Slack with the schedule on-call user from PagerDuty. This can be benefical for channels dedicated to p0 support. 
+This tool updates Slack with the scheduled on-call user from PagerDuty. A use-case scenario would be in a channel dedicated to p0 support. 
 
 ## Resources
 
